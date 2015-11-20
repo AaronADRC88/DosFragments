@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="fragtxt"></string>
+    <string name="fr2txt">Press to update</string>
+    <string name="fr2txt2">limpiar</string>
+    <string name="fr2txtOK">OK</string>
+</resources>
